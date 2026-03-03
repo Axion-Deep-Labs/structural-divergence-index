@@ -71,3 +71,10 @@ MIT
 ## Contact
 
 labs@axiondeep.com
+
+## Related Projects
+
+- [PERSIST](https://github.com/Axion-Deep-Labs/persist-topological-forgetting) — Topological signatures of knowledge persistence
+- [DRIFT](https://github.com/Axion-Deep-Labs/drift-quantum-degradation) — Quantum circuit stability under iteration
+- [PHI](https://github.com/Axion-Deep-Labs/phi-integrated-information) — Integrated information across architectures
+- [GENESIS](https://github.com/Axion-Deep-Labs/genesis-capacity-scaling) — Information capacity scaling laws
